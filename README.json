@@ -1,0 +1,219 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Categories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github Readme Stats",
+          "description": "Get dynamically generated GitHub stats on your readmes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T00:50:25Z",
+            "owner": "anuraghazra",
+            "repo": "github-readme-stats",
+            "stars": 79836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Icons",
+          "description": "SVG icons for popular brands for your README.md files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T01:27:31Z",
+            "owner": "simple-icons",
+            "repo": "simple-icons",
+            "stars": 25610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Profile README Generator",
+          "description": "This tool provides an easy way to create github profile readme with latest addons like , etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-28T10:27:15Z",
+            "owner": "rahuldkjain",
+            "repo": "github-profile-readme-generator",
+            "stars": 24391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Profile Trophy",
+          "description": "🏆 Add dynamically generated GitHub Trophy on your readme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T00:05:17Z",
+            "owner": "ryo-ma",
+            "repo": "github-profile-trophy",
+            "stars": 6631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snk",
+          "description": ":green_square::white_large_square: Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T21:44:31Z",
+            "owner": "Platane",
+            "repo": "snk",
+            "stars": 6031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "All Dev Stats in Readme",
+          "description": "Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:03:19Z",
+            "owner": "anmol098",
+            "repo": "waka-readme-stats",
+            "stars": 3976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dev Metrics in Readme",
+          "description": "WakaTime Weekly Metrics on your Profile Readme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-18T01:33:48Z",
+            "owner": "athul",
+            "repo": "waka-readme",
+            "stars": 1831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Activity in README",
+          "description": "Updates with the recent GitHub activity of a user",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T07:46:02Z",
+            "owner": "jamesgeorge007",
+            "repo": "github-activity-readme",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Profile README Generator",
+          "description": "This project allows you to create nice and simple github profile readme files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-20T18:47:17Z",
+            "owner": "arturssmirnovs",
+            "repo": "github-profile-readme-generator",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Profile Activity Generator",
+          "description": "Generate custom profile activity for your profile README",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-31T22:27:09Z",
+            "owner": "omidnikrah",
+            "repo": "profile-activity-generator",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Profile Page On Github",
+          "description": "Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-09-23T15:16:52Z",
+            "owner": "umutphp",
+            "repo": "github-action-dynamic-profile-page",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel GitHub Profile Visit Counter",
+          "description": "Add on your Laravel project a quick-badge to count your profile visits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-07-14T17:58:06Z",
+            "owner": "caneco",
+            "repo": "laravel-github-profile-view-counter",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Current UTC time",
+          "description": "Example code of server that can serve dynamic content on GitHub profile",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:21:33Z",
+            "owner": "jojoee",
+            "repo": "jojoee",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm package downloads",
+          "description": "Show all of your npm packages and their total downloads",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-06-14T01:14:52Z",
+            "owner": "maddhruv",
+            "repo": "github-readme-npm-downloads",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:01:14.524Z",
+    "original_repository": "moshfiqrony/awesome-bd-readme-profile",
+    "original_repository_sha": "23f9b74c95c210dcea898781a1c6b0523946db8c",
+    "enhanced_repository": "enhansome/enhansome-bd-readme-profile",
+    "enhanced_repository_description": null,
+    "title": "Awesome bd readme profile with stars"
+  }
+}
