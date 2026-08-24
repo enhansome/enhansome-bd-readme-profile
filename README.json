@@ -15,7 +15,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79826
+            "stars": 79825
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 6720403,
             "language": "JavaScript",
-            "last_commit": "2026-08-02T01:27:31Z",
+            "last_commit": "2026-08-23T15:03:04Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25692
+            "stars": 25704
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-10-28T10:27:15Z",
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24407
+            "stars": 24410
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6636
+            "stars": 6637
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-29T21:44:31Z",
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6049
+            "stars": 6052
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-04T11:03:19Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3986
+            "stars": 3987
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-05T07:46:02Z",
             "owner": "jamesgeorge007",
             "repo": "github-activity-readme",
-            "stars": 948
+            "stars": 949
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:58:43.913Z",
+    "last_updated": "2026-08-24T06:06:27.675Z",
     "original_repository": "moshfiqrony/awesome-bd-readme-profile",
     "original_repository_id": 281390334,
     "original_repository_sha": "23f9b74c95c210dcea898781a1c6b0523946db8c",
