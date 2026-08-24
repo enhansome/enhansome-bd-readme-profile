@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T15:03:04Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25704
+            "stars": 25707
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-10-28T10:27:15Z",
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24410
+            "stars": 24412
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 280882811,
             "language": "Python",
-            "last_commit": "2026-08-04T11:03:19Z",
+            "last_commit": "2026-08-24T13:42:51Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3987
+            "stars": 3986
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:06:27.675Z",
+    "last_updated": "2026-08-24T14:48:32.297Z",
     "original_repository": "moshfiqrony/awesome-bd-readme-profile",
     "original_repository_id": 281390334,
     "original_repository_sha": "23f9b74c95c210dcea898781a1c6b0523946db8c",
