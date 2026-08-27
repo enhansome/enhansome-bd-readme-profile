@@ -15,7 +15,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79831
+            "stars": 79840
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 6720403,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T14:06:49Z",
+            "last_commit": "2026-08-27T06:39:59Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25727
+            "stars": 25735
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-10-28T10:27:15Z",
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24415
+            "stars": 24417
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6637
+            "stars": 6638
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-29T21:44:31Z",
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6058
+            "stars": 6062
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T13:42:51Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3985
+            "stars": 3984
           }
         },
         {
@@ -218,9 +218,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:03:26.958Z",
-    "original_repository": "moshfiqrony/awesome-bd-readme-profile",
-    "original_repository_id": 281390334,
+    "last_updated": "2026-08-27T11:25:52.433Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 281390334,
+      "language": null,
+      "last_commit": "2023-04-08T06:34:31Z",
+      "owner": "moshfiqrony",
+      "repo": "awesome-bd-readme-profile",
+      "stars": 70
+    },
     "original_repository_sha": "23f9b74c95c210dcea898781a1c6b0523946db8c",
     "enhanced_repository": "enhansome/enhansome-bd-readme-profile",
     "enhanced_repository_description": null,
