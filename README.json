@@ -15,8 +15,9 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79838
-          }
+            "stars": 79845
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T06:39:59Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25736
-          }
+            "stars": 25743
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2025-10-28T10:27:15Z",
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24417
-          }
+            "stars": 24421
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
             "stars": 6639
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Platane",
             "repo": "snk",
             "stars": 6062
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-24T13:42:51Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3984
-          }
+            "stars": 3985
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "athul",
             "repo": "waka-readme",
             "stars": 1830
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "jamesgeorge007",
             "repo": "github-activity-readme",
             "stars": 949
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "arturssmirnovs",
             "repo": "github-profile-readme-generator",
             "stars": 902
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "omidnikrah",
             "repo": "profile-activity-generator",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "umutphp",
             "repo": "github-action-dynamic-profile-page",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "caneco",
             "repo": "laravel-github-profile-view-counter",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "jojoee",
             "repo": "jojoee",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         },
         {
           "node_type": "item",
@@ -211,14 +224,15 @@
             "owner": "maddhruv",
             "repo": "github-readme-npm-downloads",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T17:41:06.009Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:46:48.369Z",
+    "last_updated": "2026-08-28T17:41:06.009Z",
     "original_repository_info": {
       "archived": false,
       "id": 281390334,
