@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Dynamically generated stats for your github readmes",
+            "homepage": "https://github-readme-stats.vercel.app",
             "id": 278335273,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T00:50:25Z",
+            "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79845
+            "stars": 79842,
+            "topics": [
+              "dynamic",
+              "profile-readme",
+              "readme-generator",
+              "readme-stats",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -26,12 +37,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SVG icons for popular brands",
+            "homepage": "https://simpleicons.org",
             "id": 6720403,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T06:39:59Z",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-29T01:29:28Z",
+            "open_issues": 946,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25743
+            "stars": 25743,
+            "topics": [
+              "brand",
+              "brand-assets",
+              "brand-colors",
+              "branding",
+              "branding-assets",
+              "brands",
+              "company-brands",
+              "design",
+              "design-assets",
+              "icon-pack",
+              "icon-packs",
+              "icons",
+              "iconset",
+              "logo",
+              "logos",
+              "svg",
+              "svg-files",
+              "svg-icons",
+              "svg-images"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -42,12 +78,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
+            "homepage": "https://rahuldkjain.github.io/github-profile-readme-generator",
             "id": 279848748,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-28T10:27:15Z",
+            "open_issues": 408,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24421
+            "stars": 24421,
+            "topics": [
+              "gatsby",
+              "generator",
+              "github",
+              "hacktoberfest",
+              "markdown",
+              "react",
+              "readme"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -58,12 +107,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 Add dynamically generated GitHub Stat Trophies  on your readme",
+            "homepage": "https://github-profile-trophy.vercel.app",
             "id": 289523918,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
+            "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6639
+            "stars": 6639,
+            "topics": [
+              "deno",
+              "github",
+              "github-profile",
+              "github-profile-readme",
+              "github-profile-trophy",
+              "github-readme",
+              "github-readme-trophy",
+              "github-trophy",
+              "hacktoberfest",
+              "rank",
+              "readme",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -74,12 +141,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif",
+            "homepage": "https://platane.github.io/snk",
             "id": 279995113,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-29T21:44:31Z",
+            "open_issues": 2,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6062
+            "stars": 6062,
+            "topics": [
+              "gif",
+              "github-actions",
+              "github-contribution-graph",
+              "github-contributions",
+              "github-profile-readme",
+              "snake-game",
+              "svg-animations"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -90,12 +170,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This GitHub action helps to add cool dev metrics to your github profile Readme",
+            "homepage": null,
             "id": 280882811,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T13:42:51Z",
+            "open_issues": 68,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3985
+            "stars": 3985,
+            "topics": [
+              "awesome",
+              "profile",
+              "profile-page",
+              "profile-readme",
+              "readme",
+              "wakatime"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -106,12 +198,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wakatime Weekly Metrics on your Profile Readme. ",
+            "homepage": "https://github.com/athul",
             "id": 278415002,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-18T01:33:48Z",
+            "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1830
+            "stars": 1830,
+            "topics": [
+              "profile-page",
+              "readme",
+              "wakatime"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -122,12 +223,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Updates README with the recent GitHub activity of a user",
+            "homepage": null,
             "id": 280152958,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T07:46:02Z",
+            "open_issues": 12,
             "owner": "jamesgeorge007",
             "repo": "github-activity-readme",
-            "stars": 949
+            "stars": 949,
+            "topics": [
+              "activity",
+              "github-action",
+              "github-action-javascript",
+              "github-actions",
+              "github-workflow",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "javascript",
+              "profile-page",
+              "profile-readme",
+              "readme",
+              "readme-template"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -138,12 +257,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.",
+            "homepage": "https://arturssmirnovs.github.io/github-profile-readme-generator/",
             "id": 280809092,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-20T18:47:17Z",
+            "open_issues": 0,
             "owner": "arturssmirnovs",
             "repo": "github-profile-readme-generator",
-            "stars": 902
+            "stars": 902,
+            "topics": [
+              "github",
+              "github-readme",
+              "hacktoberfest",
+              "profile",
+              "profile-previews",
+              "readme",
+              "readme-generator",
+              "readme-generator-template"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -154,12 +287,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate custom profile activity for your profile README",
+            "homepage": "https://omidnikrah.github.io/profile-activity-generator/",
             "id": 279705398,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-31T22:27:09Z",
+            "open_issues": 5,
             "owner": "omidnikrah",
             "repo": "profile-activity-generator",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "activity",
+              "activity-generator",
+              "profile-readme",
+              "readme"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -170,12 +313,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action to push updates to your special profile repository.",
+            "homepage": null,
             "id": 278723686,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-23T15:16:52Z",
+            "open_issues": 0,
             "owner": "umutphp",
             "repo": "github-action-dynamic-profile-page",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "github-action",
+              "hacktoberfest",
+              "profile"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -186,12 +338,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package will allows you to track Github profile views and display them in your profile readme, for free.",
+            "homepage": null,
             "id": 278611187,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-07-14T17:58:06Z",
+            "open_issues": 0,
             "owner": "caneco",
             "repo": "laravel-github-profile-view-counter",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "github",
+              "laravel",
+              "readme",
+              "tracking",
+              "webcounter"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -202,12 +365,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":)",
+            "homepage": null,
             "id": 278406886,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-20T02:09:46Z",
+            "open_issues": 2,
             "owner": "jojoee",
             "repo": "jojoee",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "bot",
+              "rebalance"
+            ]
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         },
@@ -218,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Show npm packages downloads :arrow_double_down: in GitHub README",
+            "homepage": null,
             "id": 280583219,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-14T01:14:52Z",
+            "open_issues": 2,
             "owner": "maddhruv",
             "repo": "github-readme-npm-downloads",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:06.009Z"
         }
@@ -232,15 +408,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:41:06.009Z",
+    "last_updated": "2026-08-29T05:05:37.316Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
+      "homepage": null,
       "id": 281390334,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-04-08T06:34:31Z",
+      "open_issues": 0,
       "owner": "moshfiqrony",
       "repo": "awesome-bd-readme-profile",
-      "stars": 70
+      "stars": 70,
+      "topics": [
+        "awesome-list",
+        "profile",
+        "readme"
+      ]
     },
     "original_repository_sha": "23f9b74c95c210dcea898781a1c6b0523946db8c",
     "enhanced_repository": "enhansome/enhansome-bd-readme-profile",

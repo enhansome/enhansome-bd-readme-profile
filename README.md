@@ -99,8 +99,8 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 
 ## Tools
 
-* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,845 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - Get dynamically generated GitHub stats on your readmes
-* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,743 | 🐛 945 | 🌐 JavaScript | 📅 2026-08-27 - SVG icons for popular brands for your README.md files
+* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,842 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - Get dynamically generated GitHub stats on your readmes
+* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,743 | 🐛 946 | 🌐 JavaScript | 📅 2026-08-29 - SVG icons for popular brands for your README.md files
 * [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,421 | 🐛 408 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 * [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,639 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated GitHub Trophy on your readme
 * [Snk](https://github.com/Platane/snk) ⭐ 6,062 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-29 - :green\_square::white\_large\_square: Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
@@ -121,4 +121,4 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
