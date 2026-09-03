@@ -19,7 +19,7 @@
             "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79836,
+            "stars": 79835,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -46,7 +46,7 @@
             "open_issues": 947,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25767,
+            "stars": 25774,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 408,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24425,
+            "stars": 24422,
             "topics": [
               "gatsby",
               "generator",
@@ -150,7 +150,7 @@
             "open_issues": 2,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6066,
+            "stars": 6067,
             "topics": [
               "gif",
               "github-actions",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:52:18.726Z",
+    "last_updated": "2026-09-03T10:03:42.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
