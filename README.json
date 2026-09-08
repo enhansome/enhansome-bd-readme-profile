@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79851,
+            "stars": 79845,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -43,7 +43,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-09-06T02:05:46Z",
-            "open_issues": 950,
+            "open_issues": 953,
             "owner": "simple-icons",
             "repo": "simple-icons",
             "stars": 25807,
@@ -87,7 +87,7 @@
             "open_issues": 407,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24426,
+            "stars": 24428,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6646,
+            "stars": 6648,
             "topics": [
               "deno",
               "github",
@@ -179,7 +179,7 @@
             "open_issues": 68,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3990,
+            "stars": 3989,
             "topics": [
               "awesome",
               "profile",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:41:33.532Z",
+    "last_updated": "2026-09-08T10:03:32.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
