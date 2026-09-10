@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79846,
+            "stars": 79845,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -42,11 +42,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-06T02:05:46Z",
-            "open_issues": 957,
+            "last_commit": "2026-09-09T16:09:40Z",
+            "open_issues": 955,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25815,
+            "stars": 25824,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 406,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24428,
+            "stars": 24430,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6648,
+            "stars": 6647,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6073,
+            "stars": 6077,
             "topics": [
               "gif",
               "github-actions",
@@ -179,7 +179,7 @@
             "open_issues": 68,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3989,
+            "stars": 3990,
             "topics": [
               "awesome",
               "profile",
@@ -207,7 +207,7 @@
             "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1831,
+            "stars": 1832,
             "topics": [
               "profile-page",
               "readme",
@@ -232,7 +232,7 @@
             "open_issues": 12,
             "owner": "jamesgeorge007",
             "repo": "github-activity-readme",
-            "stars": 950,
+            "stars": 951,
             "topics": [
               "activity",
               "github-action",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T10:04:35.925Z",
+    "last_updated": "2026-09-10T10:00:39.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
