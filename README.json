@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79838,
+            "stars": 79840,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -43,10 +43,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-09-13T05:04:35Z",
-            "open_issues": 955,
+            "open_issues": 956,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25847,
+            "stars": 25855,
             "topics": [
               "brand",
               "brand-assets",
@@ -116,7 +116,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6652,
+            "stars": 6653,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6083,
+            "stars": 6085,
             "topics": [
               "gif",
               "github-actions",
@@ -179,7 +179,7 @@
             "open_issues": 69,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3992,
+            "stars": 3993,
             "topics": [
               "awesome",
               "profile",
@@ -370,7 +370,7 @@
             "id": 278406886,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-13T05:28:50Z",
+            "last_commit": "2026-09-15T05:33:46Z",
             "open_issues": 2,
             "owner": "jojoee",
             "repo": "jojoee",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:56:44.224Z",
+    "last_updated": "2026-09-15T10:24:09.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
