@@ -19,7 +19,7 @@
             "open_issues": 295,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79812,
+            "stars": 79815,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -43,10 +43,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-09-24T15:46:13Z",
-            "open_issues": 976,
+            "open_issues": 978,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25906,
+            "stars": 25913,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 406,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24441,
+            "stars": 24446,
             "topics": [
               "gatsby",
               "generator",
@@ -113,10 +113,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6657,
+            "stars": 6660,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6098,
+            "stars": 6100,
             "topics": [
               "gif",
               "github-actions",
@@ -207,7 +207,7 @@
             "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1833,
+            "stars": 1834,
             "topics": [
               "profile-page",
               "readme",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:31:23.985Z",
+    "last_updated": "2026-09-26T10:12:20.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
