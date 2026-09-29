@@ -19,7 +19,7 @@
             "open_issues": 295,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79814,
+            "stars": 79819,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -43,10 +43,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-09-27T11:55:52Z",
-            "open_issues": 976,
+            "open_issues": 977,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25922,
+            "stars": 25927,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 406,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24448,
+            "stars": 24451,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 35,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6665,
+            "stars": 6664,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6099,
+            "stars": 6098,
             "topics": [
               "gif",
               "github-actions",
@@ -175,8 +175,8 @@
             "id": 280882811,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-24T13:42:51Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-28T13:42:44Z",
+            "open_issues": 69,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
             "stars": 3999,
@@ -322,7 +322,7 @@
             "open_issues": 0,
             "owner": "umutphp",
             "repo": "github-action-dynamic-profile-page",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "github-action",
               "hacktoberfest",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:57:40.276Z",
+    "last_updated": "2026-09-29T11:32:25.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
