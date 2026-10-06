@@ -8,7 +8,7 @@
 <div align="center">
 
 Inspired By -
-[abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,264 | 🐛 702 | 📅 2026-09-11
+[abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,265 | 🐛 702 | 📅 2026-09-11
 
 If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/awesome-bd-readme-profile/blob/master/CONTRIBUTE.md)
 
@@ -99,7 +99,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 
 ## Tools
 
-* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,825 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - Get dynamically generated GitHub stats on your readmes
+* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,823 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - Get dynamically generated GitHub stats on your readmes
 * [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 25,969 | 🐛 982 | 🌐 JavaScript | 📅 2026-10-04 - SVG icons for popular brands for your README.md files
 * [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,448 | 🐛 406 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 * [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,665 | 🐛 33 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated GitHub Trophy on your readme
