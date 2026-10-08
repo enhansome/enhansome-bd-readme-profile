@@ -19,7 +19,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79818,
+            "stars": 79822,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -43,10 +43,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-04T10:43:49Z",
-            "open_issues": 982,
+            "open_issues": 984,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25980,
+            "stars": 25985,
             "topics": [
               "brand",
               "brand-assets",
@@ -84,10 +84,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2025-10-28T10:27:15Z",
-            "open_issues": 407,
+            "open_issues": 408,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24444,
+            "stars": 24447,
             "topics": [
               "gatsby",
               "generator",
@@ -113,10 +113,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6664,
+            "stars": 6665,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6117,
+            "stars": 6120,
             "topics": [
               "gif",
               "github-actions",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:58:31.391Z",
+    "last_updated": "2026-10-08T12:12:56.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
