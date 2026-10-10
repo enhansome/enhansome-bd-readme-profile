@@ -19,7 +19,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79825,
+            "stars": 79823,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -43,7 +43,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-04T10:43:49Z",
-            "open_issues": 983,
+            "open_issues": 986,
             "owner": "simple-icons",
             "repo": "simple-icons",
             "stars": 25988,
@@ -87,7 +87,7 @@
             "open_issues": 408,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24448,
+            "stars": 24446,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6664,
+            "stars": 6662,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6122,
+            "stars": 6121,
             "topics": [
               "gif",
               "github-actions",
@@ -175,7 +175,7 @@
             "id": 280882811,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T13:42:54Z",
+            "last_commit": "2026-10-09T13:42:56Z",
             "open_issues": 71,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T12:04:28.804Z",
+    "last_updated": "2026-10-10T11:20:36.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
