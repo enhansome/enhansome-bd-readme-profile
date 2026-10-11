@@ -42,11 +42,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-04T10:43:49Z",
+            "last_commit": "2026-10-11T10:21:28Z",
             "open_issues": 986,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25988,
+            "stars": 25995,
             "topics": [
               "brand",
               "brand-assets",
@@ -84,10 +84,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2025-10-28T10:27:15Z",
-            "open_issues": 408,
+            "open_issues": 407,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24446,
+            "stars": 24447,
             "topics": [
               "gatsby",
               "generator",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:20:36.680Z",
+    "last_updated": "2026-10-11T11:34:32.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
