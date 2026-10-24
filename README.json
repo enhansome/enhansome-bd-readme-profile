@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T01:02:55Z",
-            "open_issues": 297,
+            "open_issues": 295,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79839,
+            "stars": 79841,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -42,11 +42,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-23T01:54:13Z",
-            "open_issues": 996,
+            "last_commit": "2026-10-23T16:38:56Z",
+            "open_issues": 998,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26061,
+            "stars": 26072,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24455,
+            "stars": 24457,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6670,
+            "stars": 6672,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 2,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6152,
+            "stars": 6154,
             "topics": [
               "gif",
               "github-actions",
@@ -203,11 +203,11 @@
             "id": 278415002,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-02-18T01:33:48Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-23T14:38:30Z",
+            "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1836,
+            "stars": 1838,
             "topics": [
               "profile-page",
               "readme",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:28:15.664Z",
+    "last_updated": "2026-10-24T09:45:37.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
