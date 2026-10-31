@@ -8,7 +8,7 @@
 <div align="center">
 
 Inspired By -
-[abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,474 | 🐛 736 | 📅 2026-09-11
+[abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,489 | 🐛 736 | 📅 2026-09-11
 
 If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/awesome-bd-readme-profile/blob/master/CONTRIBUTE.md)
 
@@ -100,10 +100,10 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 ## Tools
 
 * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,862 | 🐛 297 | 🌐 JavaScript | 📅 2026-10-01 - Get dynamically generated GitHub stats on your readmes
-* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 26,106 | 🐛 1,001 | 🌐 JavaScript | 📅 2026-10-25 - SVG icons for popular brands for your README.md files
-* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,462 | 🐛 409 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
+* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 26,111 | 🐛 1,002 | 🌐 JavaScript | 📅 2026-10-25 - SVG icons for popular brands for your README.md files
+* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,463 | 🐛 409 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 * [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,670 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-27 - 🏆 Add dynamically generated GitHub Trophy on your readme
-* [Snk](https://github.com/Platane/snk) ⭐ 6,164 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-18 - :green\_square::white\_large\_square: Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+* [Snk](https://github.com/Platane/snk) ⭐ 6,166 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-18 - :green\_square::white\_large\_square: Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 * [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) ⭐ 4,005 | 🐛 72 | 🌐 Python | 📅 2026-10-21 - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 * [Dev Metrics in Readme](https://github.com/athul/waka-readme) ⭐ 1,841 | 🐛 3 | 🌐 Python | 📅 2026-10-23 - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
 * [Github Activity in README](https://github.com/jamesgeorge007/github-activity-readme) ⭐ 960 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-05 - Updates `README.md` with the recent GitHub activity of a user
@@ -121,4 +121,4 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
