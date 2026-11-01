@@ -19,7 +19,7 @@
             "open_issues": 297,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79862,
+            "stars": 79861,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -42,11 +42,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-25T17:18:51Z",
-            "open_issues": 1002,
+            "last_commit": "2026-11-01T00:25:15Z",
+            "open_issues": 1008,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26111,
+            "stars": 26117,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24463,
+            "stars": 24466,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6670,
+            "stars": 6671,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 2,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6166,
+            "stars": 6167,
             "topics": [
               "gif",
               "github-actions",
@@ -370,7 +370,7 @@
             "id": 278406886,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-28T06:25:26Z",
+            "last_commit": "2026-11-01T06:58:52Z",
             "open_issues": 2,
             "owner": "jojoee",
             "repo": "jojoee",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:10:03.592Z",
+    "last_updated": "2026-11-01T11:59:56.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
