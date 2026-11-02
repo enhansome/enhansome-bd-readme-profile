@@ -19,7 +19,7 @@
             "open_issues": 297,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79861,
+            "stars": 79862,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -43,10 +43,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-11-01T00:25:15Z",
-            "open_issues": 1008,
+            "open_issues": 1013,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26117,
+            "stars": 26123,
             "topics": [
               "brand",
               "brand-assets",
@@ -116,7 +116,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6671,
+            "stars": 6673,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 2,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6167,
+            "stars": 6168,
             "topics": [
               "gif",
               "github-actions",
@@ -175,8 +175,8 @@
             "id": 280882811,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T13:42:43Z",
-            "open_issues": 72,
+            "last_commit": "2026-11-02T13:42:47Z",
+            "open_issues": 73,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
             "stars": 4005,
@@ -232,7 +232,7 @@
             "open_issues": 12,
             "owner": "jamesgeorge007",
             "repo": "github-activity-readme",
-            "stars": 960,
+            "stars": 961,
             "topics": [
               "activity",
               "github-action",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:59:56.124Z",
+    "last_updated": "2026-11-02T13:48:15.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
