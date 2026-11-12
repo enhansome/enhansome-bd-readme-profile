@@ -19,7 +19,7 @@
             "open_issues": 298,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79845,
+            "stars": 79848,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -43,10 +43,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-11-11T08:26:09Z",
-            "open_issues": 1040,
+            "open_issues": 1042,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26199,
+            "stars": 26203,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24471,
+            "stars": 24473,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 34,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6686,
+            "stars": 6685,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6179,
+            "stars": 6178,
             "topics": [
               "gif",
               "github-actions",
@@ -179,7 +179,7 @@
             "open_issues": 75,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 4006,
+            "stars": 4007,
             "topics": [
               "awesome",
               "profile",
@@ -207,7 +207,7 @@
             "open_issues": 3,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1839,
+            "stars": 1837,
             "topics": [
               "profile-page",
               "readme",
@@ -296,7 +296,7 @@
             "open_issues": 5,
             "owner": "omidnikrah",
             "repo": "profile-activity-generator",
-            "stars": 110,
+            "stars": 109,
             "topics": [
               "activity",
               "activity-generator",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:55:24.031Z",
+    "last_updated": "2026-11-12T13:57:32.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
