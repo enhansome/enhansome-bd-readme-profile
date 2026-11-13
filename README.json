@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T01:02:55Z",
-            "open_issues": 298,
+            "open_issues": 299,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79848,
+            "stars": 79847,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -46,7 +46,7 @@
             "open_issues": 1042,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26203,
+            "stars": 26212,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24473,
+            "stars": 24476,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 34,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6685,
+            "stars": 6686,
             "topics": [
               "deno",
               "github",
@@ -179,7 +179,7 @@
             "open_issues": 75,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 4007,
+            "stars": 4008,
             "topics": [
               "awesome",
               "profile",
@@ -207,7 +207,7 @@
             "open_issues": 3,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1837,
+            "stars": 1838,
             "topics": [
               "profile-page",
               "readme",
@@ -370,7 +370,7 @@
             "id": 278406886,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-01T06:58:52Z",
+            "last_commit": "2026-11-13T07:27:29Z",
             "open_issues": 2,
             "owner": "jojoee",
             "repo": "jojoee",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:57:32.779Z",
+    "last_updated": "2026-11-13T13:23:42.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
