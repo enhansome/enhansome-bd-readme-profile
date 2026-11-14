@@ -8,7 +8,7 @@
 <div align="center">
 
 Inspired By -
-[abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,595 | 🐛 761 | 📅 2026-09-11
+[abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,604 | 🐛 763 | 📅 2026-09-11
 
 If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/awesome-bd-readme-profile/blob/master/CONTRIBUTE.md)
 
@@ -99,13 +99,13 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 
 ## Tools
 
-* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,847 | 🐛 299 | 🌐 JavaScript | 📅 2026-10-01 - Get dynamically generated GitHub stats on your readmes
-* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 26,212 | 🐛 1,042 | 🌐 JavaScript | 📅 2026-11-11 - SVG icons for popular brands for your README.md files
-* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,476 | 🐛 409 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
-* [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,686 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-27 - 🏆 Add dynamically generated GitHub Trophy on your readme
-* [Snk](https://github.com/Platane/snk) ⭐ 6,178 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-18 - :green\_square::white\_large\_square: Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-* [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) ⭐ 4,008 | 🐛 75 | 🌐 Python | 📅 2026-11-02 - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
-* [Dev Metrics in Readme](https://github.com/athul/waka-readme) ⭐ 1,838 | 🐛 3 | 🌐 Python | 📅 2026-10-23 - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
+* [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,843 | 🐛 299 | 🌐 JavaScript | 📅 2026-10-01 - Get dynamically generated GitHub stats on your readmes
+* [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) ⭐ 26,218 | 🐛 1,042 | 🌐 JavaScript | 📅 2026-11-11 - SVG icons for popular brands for your README.md files
+* [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) ⭐ 24,480 | 🐛 409 | 🌐 TypeScript | 📅 2025-10-28 - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
+* [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,687 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-27 - 🏆 Add dynamically generated GitHub Trophy on your readme
+* [Snk](https://github.com/Platane/snk) ⭐ 6,181 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-18 - :green\_square::white\_large\_square: Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+* [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) ⭐ 4,008 | 🐛 74 | 🌐 Python | 📅 2026-11-13 - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
+* [Dev Metrics in Readme](https://github.com/athul/waka-readme) ⭐ 1,839 | 🐛 3 | 🌐 Python | 📅 2026-10-23 - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
 * [Github Activity in README](https://github.com/jamesgeorge007/github-activity-readme) ⭐ 966 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-05 - Updates `README.md` with the recent GitHub activity of a user
 * [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) ⭐ 903 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-20 - This project allows you to create nice and simple github profile readme files.
 * [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) ⭐ 109 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-31 - Generate custom profile activity for your profile README
@@ -121,4 +121,4 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
