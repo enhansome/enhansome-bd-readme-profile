@@ -19,7 +19,7 @@
             "open_issues": 299,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79840,
+            "stars": 79839,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -42,11 +42,11 @@
             "id": 6720403,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-15T00:33:36Z",
-            "open_issues": 1050,
+            "last_commit": "2026-11-16T13:25:43Z",
+            "open_issues": 1046,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26223,
+            "stars": 26229,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24484,
+            "stars": 24485,
             "topics": [
               "gatsby",
               "generator",
@@ -113,10 +113,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T10:11:32Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6687,
+            "stars": 6686,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 3,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6181,
+            "stars": 6183,
             "topics": [
               "gif",
               "github-actions",
@@ -175,7 +175,7 @@
             "id": 280882811,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T15:49:40Z",
+            "last_commit": "2026-11-16T13:43:13Z",
             "open_issues": 74,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:55:49.489Z",
+    "last_updated": "2026-11-16T13:57:21.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
