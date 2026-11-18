@@ -43,10 +43,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T13:25:43Z",
-            "open_issues": 1049,
+            "open_issues": 1051,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26231,
+            "stars": 26236,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24486,
+            "stars": 24488,
             "topics": [
               "gatsby",
               "generator",
@@ -150,7 +150,7 @@
             "open_issues": 4,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6184,
+            "stars": 6188,
             "topics": [
               "gif",
               "github-actions",
@@ -176,10 +176,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T13:43:13Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 4009,
+            "stars": 4010,
             "topics": [
               "awesome",
               "profile",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:50:53.706Z",
+    "last_updated": "2026-11-18T14:30:15.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
