@@ -19,7 +19,7 @@
             "open_issues": 297,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79836,
+            "stars": 79840,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -46,7 +46,7 @@
             "open_issues": 1048,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26266,
+            "stars": 26281,
             "topics": [
               "brand",
               "brand-assets",
@@ -87,7 +87,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24488,
+            "stars": 24494,
             "topics": [
               "gatsby",
               "generator",
@@ -116,7 +116,7 @@
             "open_issues": 36,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6686,
+            "stars": 6689,
             "topics": [
               "deno",
               "github",
@@ -150,7 +150,7 @@
             "open_issues": 5,
             "owner": "Platane",
             "repo": "snk",
-            "stars": 6203,
+            "stars": 6205,
             "topics": [
               "gif",
               "github-actions",
@@ -207,7 +207,7 @@
             "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1839,
+            "stars": 1841,
             "topics": [
               "profile-page",
               "readme",
@@ -232,7 +232,7 @@
             "open_issues": 12,
             "owner": "jamesgeorge007",
             "repo": "github-activity-readme",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "activity",
               "github-action",
@@ -370,7 +370,7 @@
             "id": 278406886,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-15T07:19:41Z",
+            "last_commit": "2026-11-26T08:59:49Z",
             "open_issues": 2,
             "owner": "jojoee",
             "repo": "jojoee",
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:59:38.959Z",
+    "last_updated": "2026-11-26T15:42:34.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A list of awesome Github Profile READMEs of developers 📝",
